@@ -11,7 +11,7 @@ To democratize digital identity management by giving users complete ownership of
 - *Privacy-Preserving*: Only hashes stored on-chain, actual data remains off-chain
 - *Identity Activation Control*: Users can activate/deactivate identities as needed
 - *Verifiable Credentials*: Third-party verification without accessing personal data
-- *Core Chain Native*: Optimized for the Core Chain ecosystem
+- *Core Chain Native*: Optimized for the Core Chain ecosystem y the 
 
 ## Contract address
 0x9BE62AD827489428400006cD80B250Dc3FbcDDE3
