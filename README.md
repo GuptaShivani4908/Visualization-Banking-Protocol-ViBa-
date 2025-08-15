@@ -17,6 +17,6 @@ To democratize digital identity management by giving users complete ownership of
 ![image](https://github.com/user-attachments/assets/8dc6a93e-f0a6-49cc-83b6-e2b8e81c48ca)0x9BE62AD827489428400006cD80B250Dc3FbcDDE3
 ![image](https://github.com/user-attachments/assets/8dc6a93e-f0a6-49cc-83b6-e2b8e81c48ca)
  
-hhh
+vision
 
 
