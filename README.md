@@ -10,7 +10,7 @@ To democratize digital identity management by giving users complete ownership of
 - *Self-Sovereign Identity*: Full user control over digital identities
 - *Privacy-Preserving*: Only hashes stored on-chain, actual data remains off-chain
 - *Identity Activation Control*: Users can activate/deactivate identities as needed
-- *Verifiable Credentials*: Third-party verification without accessing personal data
+- *Verifiable Credentials*: Third-party verification without accessing personal datahh
 - *Core Chain Native*: Optimized for the Core Chain ecosystemby 
 ## Contract address if it is not there hgenerate kind of paper
 0x9BE62AD827489428400006cD80B250Dc3FbcDDE3
